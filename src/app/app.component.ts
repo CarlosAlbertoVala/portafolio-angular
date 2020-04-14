@@ -9,7 +9,7 @@ import { InfoPaginaService } from './services/info-pagina.service';
 export class AppComponent {
   // title = 'portafolio';
 
-  constructor (public _infoPagina : InfoPaginaService){
+  constructor (public infoPaginaService : InfoPaginaService){
 
 
   }
