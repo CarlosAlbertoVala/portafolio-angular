@@ -1,0 +1,59 @@
+[33mcommit 75cfd516a9aed0e8ea5e8748c6fd999fb778da6f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Wed Apr 15 22:09:57 2020 -0500
+
+    creando producto servicio y su intrface
+
+[33mcommit e43189a6f5150649c7c8933a3b58786edf00b1a5[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Tue Apr 14 23:49:03 2020 -0500
+
+    cargar la informacion de la nube firebase a nuestro info-pagina.service a nuestra pagina
+
+[33mcommit d26b42ac0454c8637725382d34f23a827b8b7b87[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Tue Apr 14 22:36:46 2020 -0500
+
+    se está utilizando los servicios creados y agregando estilos de animacion actializado
+
+[33mcommit 63dbb196e2afd84215375b479e6407dba300d4e3[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Tue Apr 14 20:52:51 2020 -0500
+
+    se está utilizando los servicios creados y agregando estilos de animacion
+
+[33mcommit b5fbd858181f5c83b077863179d9de7e4288123f[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Tue Apr 14 14:04:39 2020 -0500
+
+    se creo un interface exportable y se está  importando en el servicio creado info-pagina.service.ts
+
+[33mcommit 66f86f86aed9b5a7d659bd845b30c7db134099a1[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Tue Apr 14 12:24:34 2020 -0500
+
+    se agrego data con json,se creo archivo de  servicios
+
+[33mcommit 5f67327a40662b67519d5e076bfa706839683438[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Mon Apr 13 22:22:18 2020 -0500
+
+    crear componentes,fin de seccion 3 y crear rutas para nuestra paginas, uso de hash
+
+[33mcommit 5a8ba81f53adde88b90711ae27726df5974d0185[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Sat Apr 11 12:46:24 2020 -0500
+
+    template listo sin rutas
+
+[33mcommit 59f4cb6076c274cfd063ffa31724d9baa7b090dd[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Fri Apr 10 19:38:03 2020 -0500
+
+    Se agrego tres arcivos: css img js
+
+[33mcommit 811712fbe9c6c95313dd446047242e58fece064b[m
+Author: Carlos Vala <cavallenas@gmail.com>
+Date:   Fri Apr 10 12:26:22 2020 -0500
+
+    se  agregaron todos los archivos
