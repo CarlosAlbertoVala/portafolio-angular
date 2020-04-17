@@ -9,7 +9,7 @@ import { ContactoComponent } from './pages/contacto/contacto.component';
 
 const app_routes: Routes = [
     {path: 'inicio', component: PortafolioComponent},
-    {path: 'articulos', component: ArticulosComponent},
+    {path: 'articulos/:id', component: ArticulosComponent},
     {path: 'blog', component: BlogComponent},
     {path: 'acerca-de', component: AcercaDeComponent},
     {path: 'contacto', component: ContactoComponent},
