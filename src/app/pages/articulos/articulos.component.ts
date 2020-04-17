@@ -10,6 +10,8 @@ import { ProductoDescripcion } from '../../interfaces/producto-descripcion.inter
   styleUrls: ['./articulos.component.css']
 })
 export class ArticulosComponent implements OnInit {
+    producto: ProductoDescripcion;
+    productoId: string;
 
   constructor(private route: ActivatedRoute, 
               public productoService: ProductosService) { }
@@ -20,7 +22,9 @@ export class ArticulosComponent implements OnInit {
       // console.log(parametros['id']);
       this.productoService.getProducto(parametros['id'])
           .subscribe( (producto: ProductoDescripcion) => {
-            console.log(producto);
+            // console.log(producto);
+            this.producto = producto;
+            this.productoId = parametros['id'];
           });
     });
   }
